@@ -10,9 +10,6 @@ I am building hands-on cybersecurity and IT skills through labs and coursework.
 - Networking basics
 - Security labs
 
-## Portfolio Projects
-Coming soon
-
 
 <!--
 **deshaunpoyser/deshaunpoyser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
